@@ -1,5 +1,5 @@
-Container Orchestration and Infrastructure Automation Assignment.....................................
-In This Assignment we have two containers as follows :
+Container Orchestration and Infrastructure Automation Project.....................................
+In This Project we have two containers as follows :
 
 Server
 Create a volume by name servervol.
